@@ -1,6 +1,6 @@
 👋 Hi, I’m Ahsanul Haque
 
-You can reach me through linkedin, just send me a connection request here https://www.linkedin.com/in/ahsanulhaquedot1231/
+You can reach me through linkedin, just send me a connection request here https://www.linkedin.com/in/ahsanulhaque1231/
 
 <!---
 ahsanulhaquedot1231/ahsanulhaque1231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
